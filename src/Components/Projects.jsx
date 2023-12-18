@@ -303,7 +303,7 @@ const Projects = () => {
     
                 </div>
                 </Slide>
-                {/* Trip Tribe */}
+                {/* Trip Tribe
                 <Slide left duration={1500}>
                 <div className="card project-card">
                    <div>
@@ -380,7 +380,7 @@ const Projects = () => {
                    </div>
     
                 </div>
-              </Slide>
+              </Slide> */}
     </div>
     </div>
 

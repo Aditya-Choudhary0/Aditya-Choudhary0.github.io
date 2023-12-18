@@ -1,6 +1,7 @@
 
 import React, { useState, useEffect } from 'react';
 import '../css/Navbar.css';
+import resume from '../files/Aditya_Krishandeo_Choudhary.pdf'
 
 
 const Navbar = () => {
@@ -96,7 +97,7 @@ const Navbar = () => {
         </li>
         <li className="menu-item">
           <a
-            href="https://drive.google.com/file/d/1haJSVLwQoB_EeEJjG-fO1fWaMmoTc3lP/view?usp=sharing"
+            href={ resume }
             rel="noreferrer"
             className="nav-link resume"
             id="resume-link-1"

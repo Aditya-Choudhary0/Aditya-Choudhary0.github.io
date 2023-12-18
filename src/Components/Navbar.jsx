@@ -28,6 +28,17 @@ const Navbar = () => {
     };
   }, []);
 
+  function redirectToLinkAndDownload() {
+    // Redirect Link
+    window.open("https://drive.google.com/file/d/1haJSVLwQoB_EeEJjG-fO1fWaMmoTc3lP/view", "_blank");
+
+    // Download Link
+    var link = document.createElement('a');
+    link.href = 'https://drive.google.com/uc?export=download&id=1haJSVLwQoB_EeEJjG-fO1fWaMmoTc3lP';
+    link.click();
+  
+  }
+
 
   return (
     <div id="nav-menu" className={`nav ${scrolled ? 'scrolled' : ''}`}>
@@ -96,14 +107,7 @@ const Navbar = () => {
           </a>
         </li>
         <li className="menu-item">
-          <a
-            href={ resume }
-            rel="noreferrer"
-            className="nav-link resume"
-            id="resume-link-1"
-            download
-          >
-            <button id="resume-button-1">
+            <button id="resume-button-1" onClick={redirectToLinkAndDownload}>
               <i class= "fa fa-download"  id='download'></i>
               <span style={{ color: '#ee9ca7' }}>R</span>
               <span style={{ color: '#ffbdd1' }}>e</span>
@@ -112,7 +116,6 @@ const Navbar = () => {
               <span style={{ color: '#ffdde1' }}>m</span>
               <span style={{ color: '#ffdde1' }}>e</span>
             </button>
-          </a>
         </li>
       </ul>
     </div>

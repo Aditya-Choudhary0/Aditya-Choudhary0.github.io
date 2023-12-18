@@ -112,10 +112,8 @@
   font-weight: 600;
   border: none;
   cursor: pointer;
-  /* background: linear-gradient(-45deg, #f89b29 0%, #ff0f7b 100%); */
   border-radius: 5px;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
-
 }
 
 .card::before {
@@ -178,9 +176,9 @@
 }
 
 .btnhover {
-  transform: translateY(200%);
+  /* transform: translateY(200%); */
   opacity: 0;
-  transition: transform .2s ease, opacity .2s ease;
+  /* transition: transform .2s ease, opacity .2s ease; */
   width: 40%;
   margin: auto;
   position: relative;
@@ -396,9 +394,9 @@
   display: flex;
   align-items: center;
 }
-.btnhover{
+/* .btnhover{
   display: none;
-}
+} */
 
 .Tabscreenbtns{
   display: flex;
@@ -486,9 +484,9 @@
   display: flex;
   align-items: center;
 }
-.btnhover{
+/* .btnhover{
   display: none;
-}
+} */
 
 .Tabscreenbtns{
   display: flex;

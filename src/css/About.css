@@ -1,0 +1,163 @@
+*{
+    font-family: 'Arial','Open Sans', sans-serif;
+   
+}
+
+#about>h1{
+    color: #7990b9;
+    font-size: 50px;
+    
+}
+
+.intro-section{
+    display: flex;
+    width: 90%;
+    margin: auto;
+    justify-content: space-between;
+    padding: 50px 0px 150px 0px;
+}
+
+.about-me{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    line-height: 0.5em;
+}
+
+.about-me>h1{
+    font-size: 60px;
+    text-align: left;
+}
+
+.about-me>p{
+    color: #adadad;
+    line-height: 1.5em;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: left;
+    padding-top: 30px;
+}
+
+.social-media{
+    display: flex;
+    margin-top: 40px;
+}
+
+.button{
+    margin: 40px 0px 30px 40px;
+    text-align: left;
+}
+#icon{
+    color: black;
+}
+#icon:hover
+{
+ color: black;
+}
+.resume-button{
+    cursor: pointer;
+    border-radius: 5px;
+    background-color:#ababab ;
+    padding: 10px 40px;
+    border: none;
+    font-size: 20px;
+    font-weight: 500;
+    color: rgb(54, 54, 54);
+}
+
+#resume-button-2:hover{
+    color: black;
+    background-color: #bfd1ec;
+    transition: background-color 0.3s ease-in-out;
+    font-weight: bolder;
+}
+
+.illustration{
+    width: 30%;
+}
+
+
+.illustration>img{
+    width: 100%;
+}
+
+
+@media only screen and (max-width: 670px) {
+    .intro-section{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 90%;
+        margin: auto;
+        justify-content: space-between;
+        padding: 50px 0px 150px 0px;
+    }
+    .about-me>p{
+        color: #7990b9;
+        line-height: 1.5em;
+        font-size: 18px;
+        font-weight: 500;
+    }
+    .about-me>h1{
+        font-size: 60px;
+        display: flex;
+        align-items:center;
+        margin: auto;
+        padding-top: 20px;
+    }
+    .home-img{
+        margin-top: -50px;
+        margin-bottom: 30px;
+
+    }
+    .about-me{
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+        line-height: 0.5em;
+    }
+    .button{
+        margin: 40px 30px;
+        text-align: center;
+    }
+}
+
+@media only screen and (min-width:671px) and (max-width: 970px) {
+    .intro-section{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 90%;
+        margin: auto;
+        justify-content: space-between;
+        padding: 50px 0px 150px 0px;
+    }
+    .about-me>p{
+        color: #7990b9;
+        line-height: 1.5em;
+        font-size: 18px;
+        font-weight: 500;
+    }
+    .about-me>h1{
+        font-size: 60px;
+        display: flex;
+        align-items:center;
+        margin: auto;
+        padding-top: 20px;
+    }
+    .home-img{
+        margin-top: -50px;
+        margin-bottom: 30px;
+    
+    }
+    .about-me{
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+        line-height: 0.5em;
+    }
+    .button{
+        margin: 40px 0px 30px 40px;
+        text-align: center;
+    }
+}

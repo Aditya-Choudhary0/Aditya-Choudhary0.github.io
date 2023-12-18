@@ -1,0 +1,64 @@
+*{
+    font-family: 'Arial','Open Sans', sans-serif;
+   
+}
+.github-profile>h1{
+    color: #3c547d;
+    font-size: 50px;
+    margin-top: 100px;
+}
+
+.github-charts{
+    padding: 70px 0px;
+    width: 100%;
+}
+
+.react-activity-calendar>img{
+    width: 80%;
+    padding: 50px 0px;
+}
+
+@media only screen and (max-width: 670px) {
+ .github-calender-div
+ {
+    width: 80%;
+    margin: auto;
+ }
+ .react-activity-calendar>img{
+    width: 60%;
+    padding: 50px 0px;
+}
+.github-charts > img
+{
+    width:60%
+}
+}
+@media only screen and (min-width:671px)and (max-width: 970px) {
+    .github-calender-div
+    {
+       width: 80%;
+       margin: auto;
+    }
+    .react-activity-calendar>img{
+       width: 60%;
+       padding: 50px 0px;
+   }
+   .github-charts > img
+   {
+       width:60%;   }
+   }
+   @media only screen and (min-width:971px)and (max-width: 1120px) {
+    .github-calender-div
+    {
+       width: 80%;
+       margin: auto;
+    }
+    .react-activity-calendar>img{
+       width: 80%;
+       padding: 50px 0px;
+   }
+   .github-charts > img
+   {
+       width:80%
+   }
+   }

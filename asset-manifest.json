@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.2c833208.css",
-    "main.js": "/static/js/main.69e177f9.js",
+    "main.css": "/static/css/main.144bd803.css",
+    "main.js": "/static/js/main.aa5b975d.js",
     "static/js/787.7dbd9752.chunk.js": "/static/js/787.7dbd9752.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/Aditya_Krishandeo_Choudhary.pdf": "/static/media/Aditya_Krishandeo_Choudhary.441f0e88895bc26db024.pdf",
     "static/media/Aditya_Choudhary.jpg": "/static/media/Aditya_Choudhary.0cc7215774422335abee.jpg",
     "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
@@ -18,12 +19,12 @@
     "static/media/icons8-css.svg": "/static/media/icons8-css.3ec320225ef851ed26cf9fd1c6ebaa54.svg",
     "static/media/icons8-chakra-ui.svg": "/static/media/icons8-chakra-ui.3cc0dcf33272ae6294329e6a24f995e9.svg",
     "static/media/icons8-html.svg": "/static/media/icons8-html.c1bb84e022ca9d76984d4b943bd678fd.svg",
-    "main.2c833208.css.map": "/static/css/main.2c833208.css.map",
-    "main.69e177f9.js.map": "/static/js/main.69e177f9.js.map",
+    "main.144bd803.css.map": "/static/css/main.144bd803.css.map",
+    "main.aa5b975d.js.map": "/static/js/main.aa5b975d.js.map",
     "787.7dbd9752.chunk.js.map": "/static/js/787.7dbd9752.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c833208.css",
-    "static/js/main.69e177f9.js"
+    "static/css/main.144bd803.css",
+    "static/js/main.aa5b975d.js"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6bc4e756.css",
-    "main.js": "/static/js/main.6ed36a6b.js",
+    "main.js": "/static/js/main.ef4a48bb.js",
     "static/js/787.7dbd9752.chunk.js": "/static/js/787.7dbd9752.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/Aditya_Krishandeo_Choudhary.pdf": "/static/media/Aditya_Krishandeo_Choudhary.441f0e88895bc26db024.pdf",
@@ -20,11 +20,11 @@
     "static/media/icons8-chakra-ui.svg": "/static/media/icons8-chakra-ui.3cc0dcf33272ae6294329e6a24f995e9.svg",
     "static/media/icons8-html.svg": "/static/media/icons8-html.c1bb84e022ca9d76984d4b943bd678fd.svg",
     "main.6bc4e756.css.map": "/static/css/main.6bc4e756.css.map",
-    "main.6ed36a6b.js.map": "/static/js/main.6ed36a6b.js.map",
+    "main.ef4a48bb.js.map": "/static/js/main.ef4a48bb.js.map",
     "787.7dbd9752.chunk.js.map": "/static/js/787.7dbd9752.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6bc4e756.css",
-    "static/js/main.6ed36a6b.js"
+    "static/js/main.ef4a48bb.js"
   ]
 }

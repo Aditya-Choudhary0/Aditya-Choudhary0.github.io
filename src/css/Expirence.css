@@ -2,19 +2,18 @@
     background-color: rgb(156, 171, 199);
 }
 
-.about-me{
+.about-expirence{
     display: flex;
     flex-direction: column;
     width: 60%;
     line-height: 0.5em;
 }
 
-.about-me>h1{
-    font-size: 60px;
+.about-expirence>h2{
     text-align: left;
 }
 
-.about-me>p{
+.about-expirence>p{
     color: #000000;
     line-height: 1.5em;
     font-size: 24px;
@@ -34,28 +33,27 @@
         justify-content: space-between;
         padding: 50px 0px 150px 0px;
     }
-    .about-me>p{
-        color: #7990b9;
+    .about-expirence>p{
+        color: #000000;
         line-height: 1.5em;
         font-size: 18px;
         font-weight: 500;
     }
-    .about-me>h2{
-        font-size: 60px;
+    .about-expirence>h2{
+        font-size: 20px;
         display: flex;
         align-items:center;
         margin: auto;
-        padding-top: 20px;
     }
     .home-img{
         margin-top: -50px;
         margin-bottom: 30px;
 
     }
-    .about-me{
+    .about-expirence{
         display: flex;
         flex-direction: column;
-        width: 80%;
+        width: 95%;
         line-height: 0.5em;
     }
 }
@@ -70,20 +68,20 @@
         justify-content: space-between;
         padding: 50px 0px 150px 0px;
     }
-    .about-me>p{
-        color: #7990b9;
+    .about-expirence>p{
+        color: #000000;
         line-height: 1.5em;
         font-size: 18px;
         font-weight: 500;
     }
-    .about-me>h2{
-        font-size: 60px;
+    .about-expirence>h2{
+        font-size: 20px;
         display: flex;
         align-items:center;
         margin: auto;
         padding-top: 20px;
     }
-    .about-me{
+    .about-expirence{
         display: flex;
         flex-direction: column;
         width: 80%;

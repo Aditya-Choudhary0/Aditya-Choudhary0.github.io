@@ -12,7 +12,7 @@ const Expirence = () => {
                    Expirence</h1>
             <div className="intro-section">
                 <Fade right duration={2000}>
-                    <div id="user-detail-intro" className="about-me">
+                    <div id="user-detail-intro" className="about-expirence">
                         <Flip bottom duration={3000}>
                             <h2 style={{ color: "#2f2f2f"}}>Qicpic Innovaation Pvt. Ltd. <span style={{fontSize:15,color: "#2f2f2f"}}>(Dec-2024 to May-2025)</span></h2>
                         </Flip>

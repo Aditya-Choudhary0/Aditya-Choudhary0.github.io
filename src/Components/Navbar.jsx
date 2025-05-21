@@ -73,6 +73,19 @@ const Navbar = () => {
           </a>
         </li>
         <li className="menu-item">
+          <a href="#expirence" className="nav-link expirence">
+            <span style={{ color: '#ffbdd1' }}>E</span>
+            <span style={{ color: '#ffbdd1' }}>x</span>
+            <span style={{ color: '#ffd8a6' }}>p</span>
+            <span style={{ color: '#ffd8a6' }}>i</span>
+            <span style={{ color: '#ffd8a6' }}>r</span>
+            <span style={{ color: '#ffe4b4' }}>e</span>
+            <span style={{ color: '#ffe4b4' }}>n</span>
+            <span style={{ color: '#ffdde1' }}>c</span>
+            <span style={{ color: '#ffdde1' }}>e</span>
+          </a>
+        </li>
+        <li className="menu-item">
           <a href="#skills" className="nav-link skills">
             <span style={{ color: '#ee9ca7' }}>S</span>
             <span style={{ color: '#ffbdd1' }}>k</span>

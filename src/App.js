@@ -1,6 +1,7 @@
 import './App.css';
 import About from './Components/About';
 import Contact from './Components/Contact';
+import Expirence from './Components/Expirence';
 import Footer from './Components/Footer';
 import Github from './Components/Github';
 import Home from './Components/Home';
@@ -14,6 +15,7 @@ function App() {
       <Navbar />
       <Home/>
       <About/>
+      <Expirence />
       <Skills/>
       <Projects />
       <Github />

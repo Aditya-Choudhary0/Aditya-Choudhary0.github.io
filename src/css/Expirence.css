@@ -1,0 +1,92 @@
+#expirence{
+    background-color: rgb(156, 171, 199);
+}
+
+.about-me{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    line-height: 0.5em;
+}
+
+.about-me>h1{
+    font-size: 60px;
+    text-align: left;
+}
+
+.about-me>p{
+    color: #000000;
+    line-height: 1.5em;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: left;
+    padding-top: 30px;
+}
+
+
+@media only screen and (max-width: 670px) {
+    .intro-section{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 90%;
+        margin: auto;
+        justify-content: space-between;
+        padding: 50px 0px 150px 0px;
+    }
+    .about-me>p{
+        color: #7990b9;
+        line-height: 1.5em;
+        font-size: 18px;
+        font-weight: 500;
+    }
+    .about-me>h2{
+        font-size: 60px;
+        display: flex;
+        align-items:center;
+        margin: auto;
+        padding-top: 20px;
+    }
+    .home-img{
+        margin-top: -50px;
+        margin-bottom: 30px;
+
+    }
+    .about-me{
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+        line-height: 0.5em;
+    }
+}
+
+@media only screen and (min-width:671px) and (max-width: 970px) {
+    .intro-section{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 90%;
+        margin: auto;
+        justify-content: space-between;
+        padding: 50px 0px 150px 0px;
+    }
+    .about-me>p{
+        color: #7990b9;
+        line-height: 1.5em;
+        font-size: 18px;
+        font-weight: 500;
+    }
+    .about-me>h2{
+        font-size: 60px;
+        display: flex;
+        align-items:center;
+        margin: auto;
+        padding-top: 20px;
+    }
+    .about-me{
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+        line-height: 0.5em;
+    }
+}

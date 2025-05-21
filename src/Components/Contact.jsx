@@ -3,6 +3,16 @@ import { Fade } from 'react-reveal'
 import "../css/Contact.css"
 import "font-awesome/css/font-awesome.min.css"
 const Contact = () => {
+
+  const Github =()=>{
+    window.open("https://github.com/Aditya-Choudhary0");
+  }
+
+  const LinkedIn=()=>{
+    window.open("https://www.linkedin.com/in/aditya-choudhary-08134a243")
+  }
+
+  
   return (
     <div id="contact">
       <button className='heading-textbtn'>
@@ -14,14 +24,14 @@ const Contact = () => {
       <br/>
       <Fade left cascade duration={1500}>
         <div className="contact-links">
-          <a href="https://github.com/Aditya-Choudhary0" className="contact-icons" id="contact-github">
+          <div className="contact-icons" id="contact-github" onClick={Github}>
           <i className="fa fa-github"></i>
-            <p >github.com/Aditya-Choudhary0</p>
-          </a>
-          <a href="https://www.linkedin.com/in/aditya-choudhary-08134a243" className="contact-icons" id="contact-linkedin">
+            <p onClick={Github} >github.com/Aditya-Choudhary0</p>
+          </div>
+          <div className="contact-icons" id="contact-linkedin" onClick={LinkedIn}>
           <i className="fa fa-linkedin"></i>
             <p>in/aditya-choudhary-08134a243</p>
-          </a>
+          </div>
           <a href="mailto:adityanerves@gmail.com" className="contact-icons" id="contact-email">
           <i className="fa fa-envelope"></i>
             <p>adityanerves@gmail.com</p>

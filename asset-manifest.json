@@ -1,10 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.60f21422.css",
-    "main.js": "/static/js/main.1159c6cb.js",
+    "main.js": "/static/js/main.bdde068f.js",
     "static/js/787.7dbd9752.chunk.js": "/static/js/787.7dbd9752.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/Aditya_Krishandeo_Choudhary.pdf": "/static/media/Aditya_Krishandeo_Choudhary.441f0e88895bc26db024.pdf",
     "static/media/Aditya_Choudhary.jpg": "/static/media/Aditya_Choudhary.0cc7215774422335abee.jpg",
     "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
@@ -13,6 +12,7 @@
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/ForeverCare.JPG": "/static/media/ForeverCare.bd0c9a7c0a858a2e2dc6.JPG",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/Aditya_Krishandeo_Choudhary.pdf": "/static/media/Aditya_Krishandeo_Choudhary.67ae0bfbaefaf9bc581e.pdf",
     "static/media/icons8-react-native.svg": "/static/media/icons8-react-native.21b5daa594e0977b3ac254df4795c98a.svg",
     "static/media/icons8-javascript.svg": "/static/media/icons8-javascript.081325c6f229605dce15142ddd948d6d.svg",
     "index.html": "/index.html",
@@ -20,11 +20,11 @@
     "static/media/icons8-chakra-ui.svg": "/static/media/icons8-chakra-ui.3cc0dcf33272ae6294329e6a24f995e9.svg",
     "static/media/icons8-html.svg": "/static/media/icons8-html.c1bb84e022ca9d76984d4b943bd678fd.svg",
     "main.60f21422.css.map": "/static/css/main.60f21422.css.map",
-    "main.1159c6cb.js.map": "/static/js/main.1159c6cb.js.map",
+    "main.bdde068f.js.map": "/static/js/main.bdde068f.js.map",
     "787.7dbd9752.chunk.js.map": "/static/js/787.7dbd9752.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.60f21422.css",
-    "static/js/main.1159c6cb.js"
+    "static/js/main.bdde068f.js"
   ]
 }

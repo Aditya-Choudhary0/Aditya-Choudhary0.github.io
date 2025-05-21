@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.cdbc38d4.css",
-    "main.js": "/static/js/main.f885efdd.js",
+    "main.css": "/static/css/main.c7d1dec3.css",
+    "main.js": "/static/js/main.15f2bceb.js",
     "static/js/787.7dbd9752.chunk.js": "/static/js/787.7dbd9752.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/Aditya_Choudhary.jpg": "/static/media/Aditya_Choudhary.0cc7215774422335abee.jpg",
@@ -19,12 +19,12 @@
     "static/media/icons8-css.svg": "/static/media/icons8-css.3ec320225ef851ed26cf9fd1c6ebaa54.svg",
     "static/media/icons8-chakra-ui.svg": "/static/media/icons8-chakra-ui.3cc0dcf33272ae6294329e6a24f995e9.svg",
     "static/media/icons8-html.svg": "/static/media/icons8-html.c1bb84e022ca9d76984d4b943bd678fd.svg",
-    "main.cdbc38d4.css.map": "/static/css/main.cdbc38d4.css.map",
-    "main.f885efdd.js.map": "/static/js/main.f885efdd.js.map",
+    "main.c7d1dec3.css.map": "/static/css/main.c7d1dec3.css.map",
+    "main.15f2bceb.js.map": "/static/js/main.15f2bceb.js.map",
     "787.7dbd9752.chunk.js.map": "/static/js/787.7dbd9752.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cdbc38d4.css",
-    "static/js/main.f885efdd.js"
+    "static/css/main.c7d1dec3.css",
+    "static/js/main.15f2bceb.js"
   ]
 }

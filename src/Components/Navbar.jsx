@@ -77,8 +77,9 @@ const Navbar = () => {
             <span style={{ color: '#ffbdd1' }}>E</span>
             <span style={{ color: '#ffbdd1' }}>x</span>
             <span style={{ color: '#ffd8a6' }}>p</span>
-            <span style={{ color: '#ffd8a6' }}>i</span>
+            <span style={{ color: '#ffd8a6' }}>e</span>
             <span style={{ color: '#ffd8a6' }}>r</span>
+            <span style={{ color: '#ffd8a6' }}>i</span>
             <span style={{ color: '#ffe4b4' }}>e</span>
             <span style={{ color: '#ffe4b4' }}>n</span>
             <span style={{ color: '#ffdde1' }}>c</span>

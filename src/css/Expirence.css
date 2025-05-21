@@ -1,19 +1,19 @@
-#expirence{
+#experience{
     background-color: rgb(156, 171, 199);
 }
 
-.about-expirence{
+.about-experience{
     display: flex;
     flex-direction: column;
     width: 60%;
     line-height: 0.5em;
 }
 
-.about-expirence>h2{
+.about-experience>h2{
     text-align: left;
 }
 
-.about-expirence>p{
+.about-experience>p{
     color: #000000;
     line-height: 1.5em;
     font-size: 24px;
@@ -33,13 +33,13 @@
         justify-content: space-between;
         padding: 50px 0px 150px 0px;
     }
-    .about-expirence>p{
+    .about-experience>p{
         color: #000000;
         line-height: 1.5em;
         font-size: 18px;
         font-weight: 500;
     }
-    .about-expirence>h2{
+    .about-experience>h2{
         font-size: 20px;
         display: flex;
         align-items:center;
@@ -50,7 +50,7 @@
         margin-bottom: 30px;
 
     }
-    .about-expirence{
+    .about-experience{
         display: flex;
         flex-direction: column;
         width: 95%;
@@ -68,20 +68,20 @@
         justify-content: space-between;
         padding: 50px 0px 150px 0px;
     }
-    .about-expirence>p{
+    .about-experience>p{
         color: #000000;
         line-height: 1.5em;
         font-size: 18px;
         font-weight: 500;
     }
-    .about-expirence>h2{
+    .about-experience>h2{
         font-size: 20px;
         display: flex;
         align-items:center;
         margin: auto;
         padding-top: 20px;
     }
-    .about-expirence{
+    .about-experience{
         display: flex;
         flex-direction: column;
         width: 80%;

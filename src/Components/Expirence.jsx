@@ -6,13 +6,13 @@ import "../css/Expirence.css"
 const Expirence = () => {
 
     return (
-        <div id="expirence" className="expirence section">
+        <div id="experience" className="experience section">
             {/* <button className='heading-textbtn'> */}
                    <h1 className='mainheading'  style={{ color: "#ffffff",paddingTop:"50px"}}>
-                   Expirence</h1>
+                   Experience</h1>
             <div className="intro-section">
                 <Fade right duration={2000}>
-                    <div id="user-detail-intro" className="about-expirence">
+                    <div id="user-detail-intro" className="about-experience">
                         <Flip bottom duration={3000}>
                             <h2 style={{ color: "#2f2f2f"}}>Qicpic Innovaation Pvt. Ltd. <span style={{fontSize:15,color: "#2f2f2f"}}>(Dec-2024 to May-2025)</span></h2>
                         </Flip>

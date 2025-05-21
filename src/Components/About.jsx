@@ -9,7 +9,7 @@ const About = () => {
    
     function redirectToLinkAndDownload() {
         // Redirect Link
-        window.open("https://drive.google.com/file/d/1haJSVLwQoB_EeEJjG-fO1fWaMmoTc3lP/view", "_blank");
+        window.open("https://drive.google.com/file/d/1D-u-V8ICsNin26mNAvS8BXrt4TtfzGn4/view", "_blank");
 
         // Download Link
         // var link = document.createElement('a');

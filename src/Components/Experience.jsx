@@ -1,9 +1,9 @@
 import React from 'react'
 import Flip from 'react-reveal/Flip'
 import Fade from 'react-reveal/Fade';
-import "../css/Expirence.css"
+import "../css/Experience.css"
 
-const Expirence = () => {
+const Experience = () => {
 
     return (
         <div id="experience" className="experience section">
@@ -28,4 +28,4 @@ const Expirence = () => {
     )
 }
 
-export default Expirence
+export default Experience;

@@ -73,7 +73,7 @@ const Navbar = () => {
           </a>
         </li>
         <li className="menu-item">
-          <a href="#expirence" className="nav-link expirence">
+          <a href="#experience" className="nav-link experience">
             <span style={{ color: '#ffbdd1' }}>E</span>
             <span style={{ color: '#ffbdd1' }}>x</span>
             <span style={{ color: '#ffd8a6' }}>p</span>
